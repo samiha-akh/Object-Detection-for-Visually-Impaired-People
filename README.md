@@ -6,3 +6,19 @@ TensorFlow object detection API and SSDLite MobileNetV2 have been used to create
 # COCO Dataset
 
 ![gr001](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/9f86a857-90fc-466e-a388-47f561bea2b7)
+
+# Weather Dataset
+
+![gr004](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/b51aca87-1a76-4987-91b3-3fd979e1ffa9)
+
+# SSD Network Architecture
+![gr002](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/a5078253-dd82-4b06-90e0-240ad39fe298)
+
+# Object Detection
+
+![gr018](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/7be623e8-8060-4820-a3e8-5d119e1fa894)
+
+
+
+
+

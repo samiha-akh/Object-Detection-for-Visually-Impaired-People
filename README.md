@@ -16,7 +16,11 @@ TensorFlow object detection API and SSDLite MobileNetV2 have been used to create
 
 # Object Detection
 
-![gr018](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/7be623e8-8060-4820-a3e8-5d119e1fa894)
+![Object_detection_couch_pot](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/bdc1f1ff-1596-45ad-96f6-0aa2660f4325)
+![Object_detection_laptop](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/c13aa2f4-b962-4903-95ff-7a045aa44165)
+![Object_detection_outdoor3](https://github.com/samiha-akh/Object-Detection-for-Visually-Impaired-People/assets/156142386/d0eb2053-42cd-47c7-aacd-9433ac9aeb32)
+
+
 
 
 
